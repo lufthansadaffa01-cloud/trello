@@ -1,0 +1,6 @@
+{
+  "name": "Trello Official Website & App",
+  "description": "The official Trello experience: explore product features, views, and pricing, or dive directly into the live interactive Kanban board workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
